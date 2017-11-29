@@ -99,6 +99,10 @@ p {
   margin-bottom: auto;
   
 }
+.sidebar-wrapper .contact-list a {
+  padding-right: 10px;
+  
+}
 .sidebar-wrapper .contact-list li {
   margin-bottom: 15px;
   display: table-cell;
